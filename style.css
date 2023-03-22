@@ -1,47 +1,189 @@
-.pequenos{
-    text-align: center;
-    display: flex;
-    justify-content: space-between;
-    border-radius: 30px;
-    border:4x whitesmoke
-}
-
-
-body{
-    background-color: black;
-    color: white;
-    font-family: Arial, Helvetica, sans-serif;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SUSTENTABILIDADE</title> 
+    <link rel="stylesheet" href="style.css">
     
-}
-
+</head>
+<body>
+    
+    
+        
+       
    
+<header>
     
+    <div>
+    
+</div>
+<div class="center">
+    <img src="https://www.ferrovelhocoradin.com.br/wp-content/uploads/2019/06/Lixeiras.png" alt="Lixeiras de reciclagem."><div>
+    <h1>
+        Práticas Sustentáveis.
+    </h1><br>
+</div>
+</div>
+<main>
+   <section> <h3>O lixo e seu impacto ambiental.</h3>
+            <p>O lixo (também chamado de resíduo) é considerado um dos maiores problemas ambientais da nossa sociedade. A população e o consumo per capita crescem e, junto com eles, a quantidade de resíduos produzidos. Na maioria das vezes, o lixo não é descartado de maneira correta e pode resultar em diversos problemas para o meio ambiente, como contaminação da água, do solo e até mesmo do ar. Veja nesse texto um pouco mais sobre o lixo e o impacto ambiental que ele ocasiona.</p>
+        </section><br>
+        <section><h3> 
+            A contaminação da água.    </h3>
+            <p>A água da superfície é contaminada pelo lixo que jogamos em rios e canais. Em lugares onde há concentração de resíduos líquidos (lixiviados e chorume) há contaminação do solo e das águas subterrâneas. Deve-se notar que nos aterros sanitários devidamente licenciados pelos órgãos ambientais, os lixiviados não contaminam a água ou o solo porque são controlados e adequadamente tratados, ao contrário dos lixões, onde não há qualquer controle. A descarga de resíduos em córregos e canais abandonados em vias públicas, também pode ocasionar a obstrução de redes de esgotos. Na época de chuvas, provoca inundações que podem causar a perda de bens materiais e, o que é pior, vidas humanas</p>
+        </section><br>
+           <section></section> <h3>Contaminação dos solos</h3>
+                <p>A presença de óleos, solventes, gorduras, metais pesados e ácidos, entre outros resíduos contaminantes, alteram as propriedades físicas, químicas e do solo, podendo representar um grande risco à população.</p></section><br>
+                
+                <section><h3>Poluição do ar.</h3>
+                <p>Os resíduos sólidos abandonados em lixões a céu aberto deterioram a qualidade do ar que respiramos por causa da queima e da fumaça, além de vetores (insetos, roedores e pequenos animais) que ocasionam incômodos e podem disseminar doenças. A visibilidade é reduzida e a poeira levantada pelo vento em períodos de seca podem transportar microrganismos que produzem infecções respiratórias e irritação nasal e ocular, além de ser inconveniente respirar odores desagradáveis. Além disso, a degradação da matéria orgânica dos resíduos produz uma mistura de gás conhecida como biogás, composta principalmente de metano e dióxido de carbono (CO2 e CH4), conhecidos como gases efeito estufa (GEE), que contribuem para o processo de das alterações climáticas; adicionalmente, o metano acumulado pode causar explosões.
+                </p>
+                
+    </section>
+
+
+<div class="centro">
+    <img src="https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-lixo-16.gif" alt="Planeta terra no lixo.">
+</div>
+
+    <section> <h3>Lixo ajudando pessoas.</h3>
+        <p>A paraibana Maria Eneide Pereira Costa, 60, é um exemplo de que transformar o lixo e convertê-lo em valor econômico de maneira estruturada também pode levar a transformações amplas nas pessoas que lidam com ele. Não é só uma questão de aumento de renda, mas também de ganhos sociais, intelectuais, culturais e emocionais para os catadores de materiais recicláveis, que celebram neste 7 de junho seu dia nacional de luta e mobilização. A data recorda uma manifestação histórica na Esplanada dos Ministérios, à qual Maria Eneide esteve presente Fonte: Agência Senado.
+       
+        </p>
+        <div class="centro">
+            <img src="./imgs/imagem.jpg" alt="Maria eneide">
+        </div>
+    </section>
+        <section><h3>Descarte inadequado.</h3>
+            <p>O descarte inadequado de lixo leva à formação de ilhas de lixo nos rios, prejudicando a sobrevivência da fauna e flora de diversas regiões. Os efeitos podem ser sentidos por muito tempo, visto que alguns materiais, como o plástico, demoram centenas de anos para se decompor. Os danos causados por descarte indevido de lixo eletrônico: Em suma, o descarte incorreto de E-lixos(lixos eletrônicos) impacta a saúde pública devido aos metais pesados, gera danos ao meio ambiente através da contaminação de solos, lençóis freáticos e os organismos da fauna e da flora e, além disso, reduz o tempo de vida dos aterros sanitários.
+            </p><br>
+        </section>
+        <section><h3>Metais e suas classificações</h3>
+            <p>Em princípio, segundo o Departamento de Microbiologia da Universidade de São Paulo (USP), os metais classificam-se em: <br>
+
+                Elementos essenciais: sódio, potássio, cálcio, ferro, zinco, cobre, níquel e magnésio;</p>
+                Micro-contaminantes ambientais: arsênico, chumbo, cádmio, mercúrio, alumínio, titânio, estanho e tungstênio;</p> 
+                Elementos essenciais e simultaneamente micro-contaminantes: cromo, zinco, ferro, cobalto, manganês e níquel. </p>
+                Em seguida, a contaminação por meio dos elementos acima, a depender da dose, desencadeia desde sintomas de curto prazo, agudos e visíveis até de médio e longo prazo por todo o organismo.
+            </p> <br>
+                Por consequência, os danos à saúde são diversos e, para exemplificar, separamos os sintomas decorrentes pela contaminação através dos metais pesados comumente presentes em um computador. Veja abaixo.
+            </p> <br>
+                Chumbo: seus sintomas, dependendo da quantidade que levou o indivíduo à contaminação, pode incutir em vômitos, diarreia, convulsões, ao coma ou à morte;
+            </p>
+                Bário: causador de edemas cerebrais, fraqueza muscular, danos ao coração, fígado e baço;
+            </p>
+                Mercúrio: causador de danos cerebrais e no fígado;
+            </p>
+                Arsênico: a depender da exposição crônica ou continuada, é causador de doenças de pele, diminuição da velocidade de transmissão dos impulsos nervosos e câncer de pulmão;
+            </p>
+                Cádmio: provoca fraqueza, febre, dores de cabeça, calafrios e dores musculares;
+            </p>
+                Cloreto de polivinila (PVC): quando inalado, é causador de problemas respiratórios.</p>
+        </section>
+        <br>
+    <h1>Agora veja quais práticas sustentáveis você pode exercer diariamente.</h1>
+    <br>
+   <section> <h3>Separar o lixo de acordo com as regras da reciclagem</h3>
+    <p>Em casa, encontre um espaço para colocar dois tipos de lixeira: a primeira sendo para lixo orgânico, como sobras das refeições, e a segunda para resíduos que podem ser reciclados como papelão, garrafas pet e embalagens de metal. <br>
+
+        Esse tipo de separação é importante para fomentar a prática da reciclagem e, consequentemente, evitar o acúmulo de descarte incorreto na sua cidade. <br>
+        
+        Além de estimular a logística reversa e reaproveitamento de matéria-prima para a produção de novos objeto de consumo, você também incentivará a geração de emprego e saúde pública. <br>
+        
+        Quanto ao descarte de resíduos tóxicos como pilhas, baterias e eletrodomésticos, entre em contato com a sua prefeitura e saiba a localização do ponto de coleta mais próximo da sua casa!</p>
+       <div class="centro"> <img src="https://i2.wp.com/blog.cariocadecor.com.br/wp-content/uploads/2021/08/9c9907eddf90453f36253f1ae701b6f9_8_Praticas_sustentaveis_para_voce_inserir_na_sua_rotina_como_coleta_Seletiva_e_reciclagem.jpg?w=1080&ssl=1" alt="Como se deve separar o lixo."></div>
+   </section><br>
+   
+   <section>
+    <h3>Comprar em menor quantidade e com maior qualidade.</h3>
+    <p>O consumo consciente se trata de avaliar a real necessidade da compra antes de efetivá-la. Esse movimento de reflexão promove economia financeira, diminui o impacto ecológico e evita a geração de resíduos. Logo, verifique a origem do produto que você deseja comprar e dê preferência a produtos que sejam eco-friendly. <br>
+
+        A sugestão da compra consciente também inclui a escolha por produtos que evitam o uso excessivo de materiais que demoram décadas para se decompor como, por exemplo, o plástico. Procure marcas que ofertam embalagens em papel ou outro tipo de material biodegradável. <br>
+        
+        Outra prática sustentável de consumo consciente é a compra de roupas em brechós e móveis vintage, estimulando a economia local e o reaproveitamento de peças que ainda estão em bom estado de uso</p>
+        <div class="centro"><img src="https://img.freepik.com/fotos-premium/pessoa-comprando-frutas-legumes_23-2148195374.jpg" alt="pessoas comprando frutas e legumes">
+        </div>
+   </section><br>
+
+   <section>
+    <h3>Diminuir o consumo de produtos plásticos.</h3>
+    <p>Hoje em dia, há infinitas opções de produtos que não utilizam plástico em sua composição, basta ficar atenta aos rótulos das embalagens!
+<br>
+        Além disso, é importante comprar objetos que podem ser reutilizados várias vezes como adquirir uma garrafa de água própria ou um copo retrátil que caiba em qualquer bolsa ou mochila!
+        <br>
+        O plástico dos canudos é considerado pelas organizações ambientais como um grande vilão a ser combatido, uma vez que é a causa da morte de milhares de animais selvagens como tartarugas e aves marinhas.
+        <br>
+        Para continuar a fazer uso desse acessório, já pensou em trocar canudos de plástico pelos canudos reutilizáveis? Eles são de fácil limpeza, auxilia na diminuição do consumo de plástico e você pode levar consigo para onde quiser!
+        <br>
+        Sabe o costume de fazer compras e carregar os produtos naquelas sacolinhas de supermercado? Imagine a quantidade de sacolas que você utiliza por ano e que vão poluir a natureza por vários séculos!
+        <br>
+        A solução é investir em ecobags, bolsas reutilizáveis que te possibilita carregar mais itens, com mais conforto e são mais resistentes que as sacolinhas. Você encontra em diversas cores, formatos e materiais que não impactam tanto o meio ambiente.
+        <br>
+        Na maioria das vezes, os lanches que você consome na rua são embalados em plásticos como isopor, para manter a comida aquecida.
+        <br>
+        Ao preferir levar comida de casa, você elimina gastos desnecessários e diminui o uso de embalagens plásticas. Faça marmitas para almoçar no trabalho e leve consigo lanches fáceis e rápidos de consumir que não exigem o uso de embalagens plásticas como banana, pêra e laranja.</p>
+   </section><br>
+
+   <section>
+    <h3>Reduzir a quantidade de carne consumida.</h3>
+    <p>A agropecuária é apontada pelo Instituto de Pesquisa Econômica Aplicada como um dos maiores responsáveis pelo desmatamento e contaminação do solo, além de contribuir para a perda da biodiversidade em nosso país.
+<br>
+        Logo, a prática de diminuir o consumo de carne se torna sustentável e a favor da preservação da natureza.
+        <br>
+        Se você tem dificuldades de imaginar sua vida sem carne, faça o teste da campanha “Segunda Sem Carne”! Dedique um dia da semana para comer apenas refeições que esbanjam no colorido dos legumes, das verduras e da proteína vegetal.
+        <br>
+        Quando se sentir mais confortável com essa mudança, repita a alimentação sem carne por mais vezes durante a semana. Assim, você garante hábitos mais saudáveis e sustentáveis gradualmente.</p>
+   </section><br>
+   <section><h3>Economizar no consumo de energia.</h3>
+    <p>Práticas como não deixar em stand by os eletroeletrônicos da sua casa, trocar as lâmpadas fluorescentes das suas luminárias por lâmpadas LED e tomar banhos de curta duração são exemplos de atos sustentáveis que chegam a diminuir sua conta de luz em até 60%! Ao economizar energia, você previne a alta emissão de gás carbônico lançado na atmosfera.</p>
+</section><br>
+<section><h3>Usar produtos de limpeza biodegradáveis</h3>
+<p>Receitas caseiras como trocar o detergente líquido por sabão neutro em barra e usar vinagre como amaciante de roupas são ótimas dicas sustentáveis para trocar produtos tóxicos para a natureza por produtos biodegradáveis! <br>
+
+    A poluição hídrica pode ser evitada com atos simples e práticos como esses.
+    
+    </p></section><br>
+    <section><h3>Optar por transporte coletivo ou carona compartilhada</h3>  
+    <p>A emissão de CO2 pelos meios de transportes que utilizam combustíveis fósseis tem enorme impacto negativo sofrido pelo ecossistema do nosso planeta. Experiente meios de locomoção sustentáveis como a bicicleta.
+<br>
+        Caso você tenha carro próprio, oferece caronas para as pessoas que você conhece que faz rotas similares a sua e mantenha a revisão do seu automóvel em dia para economizar combustível e filtrar adequadamente os gases expelidos pelo escapamento do carro.</p></section></div>
+        <div class="center">
+            <img src="https://www.ferrovelhocoradin.com.br/wp-content/uploads/2019/06/Lixeiras.png" alt="Lixeiras de reciclagem."><div>
+</main>
+
+
+</header>
+<footer></footer>
+<div class="pequenos">
+<a href="https://www.instagram.com/colegiorcpe/">
+    <img src="https://cdn-icons-png.flaticon.com/512/3955/3955027.png" height="50x" width="50x" alt="instagram">
+    
+    <p>Instagram</p>
+</a>
 
     
- a{
-    color: white;
-    text-decoration: none;
+  
+
     
+    <a href="https://colegiorc.com.br">
+        <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0024/8766/brand.gif?itok=k3kWo8WA" height="50x" width="50x" alt="CRC">
+        
+        <p>Colégio Regina Coeli</p>
+    </a>
 
-}
-
-.center{
-    text-align: center;
-    width: 100%;
-    height: auto;
     
-    
-    
-}
+   
+        <a href="./imgs/face.png">
+            <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" height="50x" width="50x" alt="facebook">
+            
+            <p>Facebook</p>
+        </a>
 
-.centro{
-   text-align: center;
-  height: 50%; width: 100%;
-}
-p{text-align: left;
+    </div>
 
-}
-
-h1{
-text-align: center;
-}
+</footer>
+        
+</body>
+</html>
