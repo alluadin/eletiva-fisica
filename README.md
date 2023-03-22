@@ -1,2 +1,2 @@
-# eletiva-fisica
+# eletiva-física
 Grupo1
