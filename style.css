@@ -1,0 +1,47 @@
+.pequenos{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 30px;
+    border:4x whitesmoke
+}
+
+
+body{
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+   
+    
+
+    
+ a{
+    color: white;
+    text-decoration: none;
+    
+
+}
+
+.center{
+    text-align: center;
+    width: 100%;
+    height: auto;
+    
+    
+    
+}
+
+.centro{
+   text-align: center;
+  height: 50%; width: 100%;
+}
+p{text-align: left;
+
+}
+
+h1{
+text-align: center;
+}
