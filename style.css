@@ -2,8 +2,7 @@
     text-align: center;
     display: flex;
     justify-content: space-between;
-    border-radius: 60px;
-    border:5x rgb(0, 0, 0)
+    
 }
 
 
@@ -15,11 +14,11 @@ body{
 }
 
    
-    
+
 
     
  a{
-    color: rgb(255,255,255);
+    color: rgb(255, 255, 255);
     text-decoration: none;
     
 
@@ -38,10 +37,10 @@ body{
    text-align: center;
   height: 50%; width: 100%;
 }
-p{text-align: left;
+p{text-align: center;
 
 }
 
 h1{
 text-align: center;
-} 
+}
